@@ -56,3 +56,9 @@ button {
   border: 0;
   cursor: pointer;
 }
+
+.withdraw {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
